@@ -46,7 +46,8 @@ Currently learning **FastAPI** and designing production-grade backend architectu
 - Built and deployed an ML-based web application using Flask and AWS
 - Achieved **98.4% R²** with low MAE
 - Implemented CI/CD for automated deployment  
-🔗 Repo: https://github.com/your-username/Algeria_forest
+🔗 Repo: https://github.com/RajatAgrawal-14
+/Algeria_forest
 
 ---
 
@@ -54,14 +55,16 @@ Currently learning **FastAPI** and designing production-grade backend architectu
 - Voice-enabled AI assistant using Speech Recognition, gTTS, and Gemini API
 - Supports English, Hindi, and one regional language
 - Reduced response time by **30%**  
-🔗 Repo: https://github.com/your-username/Multilingual-AI-Assistant
+🔗 Repo: https://github.com/RajatAgrawal-14
+/Multilingual-AI-Assistant
 
 ---
 
 ### 📊 Sorting Visualizer
 - Visualized sorting algorithms using Python & Pygame
 - Compared time complexity in real time  
-🔗 Repo: https://github.com/your-username/Sorting-Visualizer
+🔗 Repo: https://github.com/RajatAgrawal-14
+/Sorting-Visualizer
 
 ---
 
