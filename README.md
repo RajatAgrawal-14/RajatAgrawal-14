@@ -20,7 +20,7 @@ Currently learning **FastAPI** and designing production-grade backend architectu
 - Python, C, C++
 
 ### Backend & Web
-- FastAPI (learning)
+- FastAPI 
 - Flask
 - Node.js, Express.js
 - REST APIs
