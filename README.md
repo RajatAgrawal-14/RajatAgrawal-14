@@ -17,7 +17,7 @@ Currently learning **FastAPI** and designing production-grade backend architectu
 ## 🛠 Tech Stack
 
 ### Languages
-- Python, C, C++
+-  C, C++ , JavaScript , Python
 
 ### Backend & Web
 - FastAPI 
